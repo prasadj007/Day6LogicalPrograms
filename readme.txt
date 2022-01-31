@@ -1,0 +1,1 @@
+This Repositiory Contains Day 6 Logical Programs
